@@ -19,7 +19,7 @@ Clone this repository into your local machine using the terminal (mac) or Gitbas
 CD to the folder with workflows and then
 Run > `npm-install` to install the project dependencies
 
-Go to underscores theme [underscores.me](underscores.me). Check advanced options and then check `_sassify!` radiobutton, add your theme name and click download.
+Go to underscores theme [underscores.me](http://underscores.me/). Check advanced options and then check `_sassify!` radiobutton, add your theme name and click download.
 
 Then add your custom underscores theme to wordpress, install and activate it.
 
