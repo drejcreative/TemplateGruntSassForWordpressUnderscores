@@ -17,7 +17,7 @@ Clone this repository into your local machine using the terminal (mac) or Gitbas
 `git clone  https://github.com/drejcreative/TemplateGruntSassForWordpressUnderscores.git`
 
 CD to the folder with workflows and then
-Run > `npm -install` to install the project dependencies
+Run > `npm install` to install the project dependencies
 
 Go to underscores theme [underscores.me](http://underscores.me/). Check advanced options and then check `_sassify!` radiobutton, add your theme name and click download.
 
