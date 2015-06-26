@@ -14,7 +14,7 @@ Make sure you have these installed
 3. [Sass](http://sass-lang.com/) Install Sass via the Mac terminal or console on a PC > `gem install sass`
 
 Clone this repository into your local machine using the terminal (mac) or Gitbash (PC)
-`git clone  https://github.com/drejcreative/Template-for-Grunt-workflow-with-Git-Sass-and-Compass.git`
+`git clone  https://github.com/drejcreative/TemplateGruntSassForWordpressUnderscores.git`
 
 CD to the folder with workflows and then
 Run > `npm-install` to install the project dependencies
